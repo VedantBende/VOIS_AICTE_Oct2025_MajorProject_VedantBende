@@ -8,9 +8,9 @@ The focus of this project is **Content Trends Analysis for Strategic Recommendat
 
 ## 📑 Table of Contents
 
-1. [Problem Statement](#problem-statement)
+1. [Problem Statement](#-problem-statement)
 
-2. [Importance of the Problem](#importance-of-the-problem)
+2. [Importance of the Problem](#-importance-of-the-problem)
 
 3. [Objectives](#objectives)
 
