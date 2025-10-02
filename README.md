@@ -12,29 +12,29 @@ The focus of this project is **Content Trends Analysis for Strategic Recommendat
 
 2. [Importance of the Problem](#-importance-of-the-problem)
 
-3. [Objectives](#objectives)
+3. [Objectives](#-objectives)
 
-4. [Dataset: A Closer Look](#dataset-a-closer-look)
+4. [Dataset: A Closer Look](#-dataset-a-closer-look)
 
-5. [Data Cleaning & Preprocessing](#data-cleaning--preprocessing)
+5. [Data Cleaning & Preprocessing](#-data-cleaning--preprocessing)
 
-6. [Key Findings & Visualizations](#key-findings--visualizations)
+6. [Key Findings & Visualizations](#-key-findings--visualizations)
 
-   * [Movies vs. TV Shows Over Time](#movies-vs-tv-shows-over-time)
-   * [Top Genres on Netflix](#top-genres-on-netflix)
-   * [Country-Wise Content Distribution](#country-wise-content-distribution)
-   * [Content Rating Patterns](#content-rating-patterns)
+   * [Movies vs. TV Shows Over Time](#-movies-vs-tv-shows-over-time)
+   * [Top Genres on Netflix](#-top-genres-on-netflix)
+   * [Country-Wise Content Distribution](#-country-wise-content-distribution)
+   * [Content Rating Patterns](#-content-rating-patterns)
 
-7. [Sample Visualizations](#sample-visualizations)
+7. [Sample Visualizations](#-sample-visualizations)
 
-   * [Visualization Movies vs. TV Shows Over the Years](#visualization-movies-vs-tv-shows-over-the-years)
-   * [Visualization Top 10 Genres](#visualization-top-10-genres)
-   * [Visualization Top 10 Countries Producing Content](#visualization-top-10-countries-producing-content)
-   * [Visualization Content Rating Distribution](#visualization-content-rating-distribution)
+   * [Visualization Movies vs. TV Shows Over the Years](#-visualization-movies-vs-tv-shows-over-the-years)
+   * [Visualization Top 10 Genres](#-visualization-top-10-genres)
+   * [Visualization Top 10 Countries Producing Content](#-visualization-top-10-countries-producing-content)
+   * [Visualization Content Rating Distribution](#-visualization-content-rating-distribution)
 
-8. [How to Run this Notebook](#how-to-run-this-notebook)
+8. [How to Run this Notebook](#-how-to-run-this-notebook)
 
-9. [Summary & Expected Outcomes](#summary--expected-outcomes)
+9. [Summary & Expected Outcomes](#-summary--expected-outcomes)
 
 ---
 
