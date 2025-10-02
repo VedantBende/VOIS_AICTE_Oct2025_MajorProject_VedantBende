@@ -30,7 +30,7 @@ The focus of this project is **Content Trends Analysis for Strategic Recommendat
    * [Visualization Movies vs. TV Shows Over the Years](#-visualization-movies-vs-tv-shows-over-the-years)
    * [Visualization Top 10 Genres](#-visualization-top-10-genres)
    * [Visualization Top 10 Countries Producing Content](#-visualization-top-10-countries-producing-content)
-   * [Visualization Content Rating Distribution](#-visualization-content-rating-distribution)
+   * [Visualization Content Rating Distribution](#%EF%B8%8F-visualization-content-rating-distribution)
 
 8. [How to Run this Notebook](#-how-to-run-this-notebook)
 
